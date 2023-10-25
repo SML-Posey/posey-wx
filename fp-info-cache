@@ -1,4 +1,4 @@
-22125750591158739
+22129148215194118
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91195,6 +91195,20 @@ TE_2305018-2_USBC_Recepticle
 0
 30
 30
+posey
+XCVR_BMD-380-A-R
+
+
+0
+63
+63
+posey
+XCVR_NORA-B106-00B
+
+
+0
+82
+82
 posey
 XTAL_ECS-.327-9-16-TR
 
