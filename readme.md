@@ -2,7 +2,13 @@
 
 This is a simple IMU hardware platform sized to fit in a watch.
 
-![CAD rendering](posey-w2405.png)
+It includes:
+
+- nRF52840 ARM microtroller with BLE radio
+- CEVA BNO086 9-axis IMU
+- Lithium-polymer operation and charging
+
+![CAD rendering](posey-w2403.png)
 
 ## Author
 
